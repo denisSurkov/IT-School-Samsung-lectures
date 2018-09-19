@@ -1,4 +1,4 @@
-package main;
+package lection1_2;
 
 /**
  * Created by USER on 15.09.2018.

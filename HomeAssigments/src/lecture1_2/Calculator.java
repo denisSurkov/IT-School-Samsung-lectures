@@ -2,11 +2,13 @@ package lecture1_2;
 
 import java.util.Scanner;
 
-class Calculator {
+class Calculator  {
+
     private static final String HELP_MSG = "\nAvailable operations: " +
             "+; -; /; %; * (multiply); ^ (power); log; sin; cos; acos; ! (factorial) \n";
 
      void run() {
+
             Scanner scan = new Scanner(System.in);
 
             float a, b;
