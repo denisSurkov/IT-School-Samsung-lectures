@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  * Created by USER on 15.09.2018.
  */
+
 public class Calculator {
 
     Calculator() {
