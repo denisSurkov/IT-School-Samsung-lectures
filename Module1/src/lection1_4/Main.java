@@ -1,23 +1,22 @@
 package lection1_4;
 
-import java.util.Arrays;
-import java.util.Queue;
 import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
 
     public static void main(String[] args) {
-//        switchDemo();
-//        forDemo();
+        switchDemo();
+        forDemo();
 
-//        for (int i = 0; i < 100; i++) {
-//            System.out.println(getRandString(getRandString("1234567890abcdefdgghg/-<>1mS\\", i), i));
-//
-//        findElement();
-//        reverseArray();
-//        findMostCommon();
-//        averangeInArr();
+        for (int i = 0; i < 100; i++) {
+            System.out.println(getRandString(getRandString("1234567890abcdefdgghg/-<>1mS\\", i), i));
+        }
+
+        findElement();
+        reverseArray();
+        findMostCommon();
+        averangeInArr();
 
     }
 
