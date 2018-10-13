@@ -22,8 +22,6 @@ public class Main {
         animal.eat();
         dog.eat();
         bullDog.eat();
-
-
     }
 
 }
